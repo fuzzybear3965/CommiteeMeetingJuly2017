@@ -1,10 +1,26 @@
-John Rinehart
-University of Waterloo, GWPI, IQC
-https://theline.design
+# This is a file.
 
-* Last Meeting
-Last time I had spoken about my intentions to perform shelving readout on a
-superconducting qubit.
+Get started with Go
 
-Since that time we have been unable to manufacture a qubit in-house and so have
-shifted our attention to deposition recipes and box modes.
+Andrew Gerrand
+Google
+https://plus.google.com/106356964679457436995
+@enneff
+http://golang.org
+
+* Background
+
+# In this tutorial I'll show you how to install and use the Go Programming Language.
+
+* What is Go?
+
+Go is a new, general-purpose programming language.
+
+- Compiled
+- Statically typed
+- Concurrent
+- Simple
+- Productive
+
+"Go is a wise, clean, insightful, fresh thinking approach to the greatest-hits subset of the well understood."
+- Michael T. Jones
