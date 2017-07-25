@@ -65,11 +65,12 @@ https://dqmlab.iqc.uwaterloo.ca
 7. Capacitance extraction from scattering parameters (qubit formal design)
 8. Simplified real-frequency technique (release source)
 9. Chalmers collaboration with previous postdoc
+10. Noise study of readout and measurement lines
 
 *Miscellaneous*
-10. Improve Alfred (possibly port to Julia and migrate data)
-11. Document my and the lab's software
-12. Author theory documents
-13. Author CAD software tutorials coupled to my software and theory documents
+11. Improve Alfred (possibly port to Julia and migrate data)
+12. Document my and the lab's software
+13. Author theory documents
+14. Author CAD software tutorials coupled to my software and theory documents
 
 *Do*whatever*Matteo*needs*
