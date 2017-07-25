@@ -44,15 +44,15 @@ https://dqmlab.iqc.uwaterloo.ca
 * Since: Research
 
 *Old*
-- Lab fit-out (UPS, water chiller product selection)
-- Lab control software
-- Pulse tube acoustic isolation box
-- Josephson junction testing module
+- Lab fit-out (UPS, water chiller product selection) ✔
+- Lab control software ✔
+- Pulse tube acoustic isolation box ✔
+- Josephson junction testing module ✔
 - Discussed: Shelving Readout
 
 *New*
-1. More fit-out (microwave meters, sources, hardware, etc.)
-2. IR Filter
+1. More fit-out (microwave meters, sources, hardware, etc.) ✔
+2. IR Filter ✔
 .image images/IRFilter.png _ 300
 
 * Since: Research
