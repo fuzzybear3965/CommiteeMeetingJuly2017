@@ -5,10 +5,10 @@ Committee Meeting
 
 John Rinehart
 University of Waterloo, IQC, GWPI
+Digital Quantum Matter Laboratory
 https://dqmlab.iqc.uwaterloo.ca
-https://theline.design
 
-* Since then: Courses
+* Since: Courses
 
 *Old*
 
@@ -24,7 +24,7 @@ https://theline.design
   7. Spring 2016   Dr. Kim        Noise Processes                        91
   8. Spring 2017   Dr. Resch      Quantum Optics (Reading Course)        N/A
 
-* Since then: TAs
+* Since: TAs
 
 *Old*
 
@@ -40,3 +40,35 @@ https://theline.design
   7. Fall   2016  Dr. Balogh      ECE 105
   8. Winter 2017  Dr. Wilson      QIC 750
   9. Spring 2017  Dr. O'Donovan   PHYS 363
+
+* Since: Research
+
+*Old*
+- Lab fit-out (UPS, water chiller product selection)
+- Lab control software
+- Pulse tube acoustic isolation box
+- Josephson junction testing module
+- Discussed: Shelving Readout
+
+*New*
+1. More fit-out (microwave meters, sources, hardware, etc.)
+2. IR Filter
+.image images/IRFilter.png _ 300
+
+* Since: Research
+
+*Microwave/Circuit*Theory*Projects*
+3. Scattering parameter domain inversion ✔
+4. Lossless impedance peeling (novel binning algorithm) ✔
+5. RLCG transmission line simulation ✔
+6. Lossy impedance peeling (generalization on prior work)
+7. Capacitance extraction from scattering parameters (qubit formal design)
+8. Simplified real-frequency technique (release source)
+9. Chalmers collaboration with previous postdoc
+
+*Miscellaneous*
+10. Improve Alfred (possibly port to Julia and migrate data)
+11. Document my and the lab's software
+12. Author theory documents and software example use cases
+
+*Do*whatever*Matteo*needs*
