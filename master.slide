@@ -1,26 +1,42 @@
 # This is a file.
 
-Get started with Go
+Committee Meeting
+25 July 2017
 
-Andrew Gerrand
-Google
-https://plus.google.com/106356964679457436995
-@enneff
-http://golang.org
+John Rinehart
+University of Waterloo, IQC, GWPI
+https://dqmlab.iqc.uwaterloo.ca
+https://theline.design
 
-* Background
+* Since then: Courses
 
-# In this tutorial I'll show you how to install and use the Go Programming Language.
+*Old*
 
-* What is Go?
+  1. Fall   2013   Dr. Cleve    Quantum Information Processing           85
+  2. Fall   2013   Dr. Lupascu  Nanoelectronics for QIP                  88
+  3. Winter 2014   Dr. Wilson   Implementations of QIP                   88
+  4. Winter 2014   Dr. Majedi   Quantum Electronics & Photonics          91
 
-Go is a new, general-purpose programming language.
+*New*
 
-- Compiled
-- Statically typed
-- Concurrent
-- Simple
-- Productive
+  5. Winter 2015   Dr. Kycia      Electricity & Magnetism                97
+  6. Fall   2015   Dr. Boumaiza   Microwave & RF Engineering             77
+  7. Spring 2016   Dr. Kim        Noise Processes                        91
+  8. Spring 2017   Dr. Resch      Quantum Optics (Reading Course)        N/A
 
-"Go is a wise, clean, insightful, fresh thinking approach to the greatest-hits subset of the well understood."
-- Michael T. Jones
+* Since then: TAs
+
+*Old*
+
+  1. Fall   2013   Dr. Tan        PHYS 111L
+  2. Spring 2014   Dr. Idziak     PHYS 112
+  3. Fall   2015   Dr. Peemoeller PHYS 342
+  4. Spring 2015   Dr. Mansour    ECE 106
+
+*New*
+
+  5. Fall   2016  Dr. Mansour     ECE 105
+  6. Spring 2016  Dr. Mariantoni  PHYS 242
+  7. Fall   2016  Dr. Balogh      ECE 105
+  8. Winter 2017  Dr. Wilson      QIC 750
+  9. Spring 2017  Dr. O'Donovan   PHYS 363
